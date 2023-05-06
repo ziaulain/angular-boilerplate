@@ -48,7 +48,7 @@
     "@angular/compiler-cli": "^8.1.1",
     "@angular/language-service": "^8.1.1",
     "@angular-devkit/build-angular": "~0.801.1",
-    "@biesbjerg/ngx-translate-extract": "^2.3.4",
+    "@biesbjerg/ngx-translate-extract": "^7.0.4",
     "@ngx-rocket/scripts": "^3.0.0",
     "@types/jasmine": "^2.8.7",
     "@types/jasminewd2": "^2.0.2",
